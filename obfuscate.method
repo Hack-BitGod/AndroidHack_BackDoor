@@ -1,0 +1,5 @@
+    const-string ###REG###, "###VALUE###"
+
+    invoke-static {###REG###}, L###CLASS###;->###METHOD###(Ljava/lang/String;)Ljava/lang/String;
+
+    move-result-object ###REG###

