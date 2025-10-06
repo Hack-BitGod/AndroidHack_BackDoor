@@ -1,6 +1,5 @@
 #!/bin/bash
 
-
 # file: ApkHack-BackDoor.sh
 
 # usage: ./ApkHack-BackDoor.sh original.apk
